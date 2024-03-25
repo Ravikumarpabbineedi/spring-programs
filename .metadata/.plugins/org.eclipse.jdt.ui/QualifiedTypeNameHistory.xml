@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.Greetings"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.Vehicle"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.GreetingsImpl"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.JavaConifg"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.Person"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.Bus"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.Traveller"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.MessageService"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.EmailService"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.CourseService"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.JavaCourseService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.JavaConfig"/>
+    <fullyQualifiedTypeName name="com.ravi.springprograms.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+</qualifiedTypeNameHistroy>

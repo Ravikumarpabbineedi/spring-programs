@@ -1,0 +1,11 @@
+package com.ravi.springbootex;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class First {
+
+	public String display() {
+		return "info.html";
+	}
+}
